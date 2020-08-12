@@ -8,6 +8,4 @@
 - 🌱 I’m sharpening my Deep Learning skill set.
 - 👯 I’m looking to collaborate on Kaggle competitions.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruch798)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruch798&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
