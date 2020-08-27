@@ -5,7 +5,7 @@
 -->
 
 <!-- - 🔭 I’m currently working on Periocular Recognition. -->
-- 🌱 I’m sharpening my Deep Learning skill set.
+- 🌱 I’m currently sharpening my Deep Learning skill set.
 - 👯 I’m looking to collaborate on Kaggle competitions.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruch798&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
