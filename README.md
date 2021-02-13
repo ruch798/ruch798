@@ -15,9 +15,15 @@ I'm currently:
 - 👯 Looking to collaborate on Kaggle competitions
 ---
 
+Recent work:
 - <a href="https://www.analyticsvidhya.com/blog/2021/02/kaggle-grandmaster-series-exclusive-interview-with-kaggle-datasets-grandmaster-ruchi-bhatiarank-5/">Interview published: Kaggle Grandmaster Series-Analytics Vidhya</a>
 - <a href="https://info.nvidia.com/real-world-applications-to-kaggle-challenges-reg-page.html?ondemandrgt=yes#">NVIDIA On-demand webinar: Real World Applications to Kaggle's most challenging problems</a>
+- <a href="https://www.conted.ox.ac.uk/tutors/15974">Guest Speaker at the University of Oxford</a>
 
+<p align=center>
+<a href="https://www.kaggle.com/ruchi798"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
+<a href="https://datascience.hp.com/us/en/our-ambassadors/ruchi-bhatia.html"><img height="25" src="https://img.shields.io/badge/ZbyHP-Ambassador%20Profile-lightgrey"></a>
+</p>
 ---
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruch798&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
