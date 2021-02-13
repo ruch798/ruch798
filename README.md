@@ -10,4 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruch798&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=ruch798&color=brightgreen)
+
 <!-- ![Ruchi's github stats](https://github-readme-stats.vercel.app/api?username=ruch798&show_icons=true&hide=contribs,issues)
