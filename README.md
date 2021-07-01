@@ -18,7 +18,7 @@ I'm currently:
 Recent work:
 - <a href="https://www.analyticsvidhya.com/blog/2021/02/kaggle-grandmaster-series-exclusive-interview-with-kaggle-datasets-grandmaster-ruchi-bhatiarank-5/">Interview published: Kaggle Grandmaster Series-Analytics Vidhya</a>
 - <a href="https://info.nvidia.com/real-world-applications-to-kaggle-challenges-reg-page.html?ondemandrgt=yes#">NVIDIA on-demand webinar: Real World Applications to Kaggle's most challenging problems</a>
-- <a href="https://www.conted.ox.ac.uk/tutors/15974">Guest Speaker at the University of Oxford</a>
+- Guest Speaker at the University of Oxford
 
 <p align=center>
 <a href="https://www.kaggle.com/ruchi798"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
