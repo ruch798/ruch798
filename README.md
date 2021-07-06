@@ -16,8 +16,7 @@ I'm currently:
 ---
 
 Recent work:
-- <a href="https://cloudonair.withgoogle.com/events/summit-ml-practitioners/watch?talk=t3_s5_kaggle_grandmasters">Google Cloud Applied ML Summit Speaker(Advanced MLOps)
-</a>
+- <a href="https://cloudonair.withgoogle.com/events/summit-ml-practitioners/watch?talk=t3_s5_kaggle_grandmasters">Google Cloud Applied ML Summit Speaker(Advanced MLOps)</a>
 - <a href="https://www.analyticsvidhya.com/blog/2021/02/kaggle-grandmaster-series-exclusive-interview-with-kaggle-datasets-grandmaster-ruchi-bhatiarank-5/">Interview published: Kaggle Grandmaster Series-Analytics Vidhya</a>
 - <a href="https://info.nvidia.com/real-world-applications-to-kaggle-challenges-reg-page.html?ondemandrgt=yes#">NVIDIA on-demand webinar: Real World Applications to Kaggle's most challenging problems</a>
 - Guest Speaker at the University of Oxford
