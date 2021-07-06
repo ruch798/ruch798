@@ -1,11 +1,11 @@
 <h2 align="center">Hi there 👋</h2>
 
 ---
-I'm Ruchi Bhatia, a 2020 Computer Engineering graduate and currently the 6th Grandmaster in the Datasets tier on Kaggle.   
+I'm Ruchi Bhatia, an incoming graduate student at Carnegie Mellon University and currently a 2x Kaggle Grandmaster (Notebooks & Datasets).
 
 Having started coding at an early age and also having completed my Bachelor’s, I can say my interest in this field has only grown with time. I gravitate more towards Data Science and Data Analysis. Working in the technology sector of various MNCs like Sony and Colgate-Palmolive has helped me gain relevant experience in the industry. As businesses today are becoming more inextricably linked with information technology, I strive to utilize my expertise to bridge the gap between technology and business.       
 
-My key interest lies solely in sharing my technical expertise with people. I thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas. I also believe in Kata - the Japanese ideology of thinking before acting which enables me to be able to focus on not only continuous improvement, but also innovation. 
+My key interest lies solely in sharing my technical expertise with people. I thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas. I also believe in Kata - the Japanese ideology of thinking before acting which enables me to be able to focus on not only continuous improvement, but also innovation.
 
 ---
 I'm currently:
