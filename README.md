@@ -8,6 +8,18 @@ Having started coding at an early age and also having completed my Bachelor’s,
 My key interest lies solely in sharing my technical expertise with people. I thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas. I also believe in Kata - the Japanese ideology of thinking before acting which enables me to be able to focus on not only continuous improvement, but also innovation.
 
 ---
+
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/discussion/light)
+
+<p align=center>
+<a href="https://www.kaggle.com/ruchi798"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
+<a href="https://datascience.hp.com/us/en/our-ambassadors/ruchi-bhatia.html"><img height="25" src="https://img.shields.io/badge/Z%20by%20HP-Ambassador%20Profile-lightgrey"></a>
+</p>
+
+---
 I'm currently:
 - 👩‍💻a Data Science Global Ambassador at Z by HP 
 - 👩‍💻a Dev Expert at Weights & Biases
@@ -20,16 +32,6 @@ Recent work:
 - <a href="https://www.analyticsvidhya.com/blog/2021/02/kaggle-grandmaster-series-exclusive-interview-with-kaggle-datasets-grandmaster-ruchi-bhatiarank-5/">Interview published: Kaggle Grandmaster Series-Analytics Vidhya</a>
 - <a href="https://info.nvidia.com/real-world-applications-to-kaggle-challenges-reg-page.html?ondemandrgt=yes#">NVIDIA on-demand webinar: Real World Applications to Kaggle's most challenging problems</a>
 - Guest Speaker at the University of Oxford
-
-<p align=center>
-<a href="https://www.kaggle.com/ruchi798"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
-<a href="https://datascience.hp.com/us/en/our-ambassadors/ruchi-bhatia.html"><img height="25" src="https://img.shields.io/badge/Z%20by%20HP-Ambassador%20Profile-lightgrey"></a>
-</p>
-  
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/discussion/light)
 
 ---
 
