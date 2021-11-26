@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋</h2>
 
 ---
-I'm Ruchi Bhatia, an incoming graduate student at Carnegie Mellon University and currently a 2x Kaggle Grandmaster (Notebooks & Datasets).
+I'm Ruchi Bhatia, a Graduate Student at Carnegie Mellon University and currently a 2x Kaggle Grandmaster (Notebooks & Datasets).
 
 Having started coding at an early age and also having completed my Bachelor’s, I can say my interest in this field has only grown with time. I gravitate more towards Data Science and Data Analysis. Working in the technology sector of various MNCs like Sony and Colgate-Palmolive has helped me gain relevant experience in the industry. As businesses today are becoming more inextricably linked with information technology, I strive to utilize my expertise to bridge the gap between technology and business.       
 
@@ -9,7 +9,7 @@ My key interest lies solely in sharing my technical expertise with people. I tho
 
 ---
 I'm currently:
-- 👩‍💻a Data Science Global Ambassador for Z by HP and NVIDIA
+- 👩‍💻a Data Science Global Ambassador at Z by HP 
 - 👩‍💻a Dev Expert at Weights & Biases
 - 🌱 Sharpening my Deep Learning skill set
 - 👯 Looking to collaborate on Kaggle competitions
@@ -25,6 +25,11 @@ Recent work:
 <a href="https://www.kaggle.com/ruchi798"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
 <a href="https://datascience.hp.com/us/en/our-ambassadors/ruchi-bhatia.html"><img height="25" src="https://img.shields.io/badge/Z%20by%20HP-Ambassador%20Profile-lightgrey"></a>
 </p>
+  
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/discussion/light)
 
 ---
 
