@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋</h2>
 
 ---
-I'm Ruchi Bhatia, a Graduate Student at Carnegie Mellon University and currently a 2x Kaggle Grandmaster (Notebooks & Datasets).
+I'm Ruchi Bhatia, a Graduate Student at Carnegie Mellon University and currently a 3x Kaggle Grandmaster (Notebooks, Datasets & Discussion).
 
 Having started coding at an early age and also having completed my Bachelor’s, I can say my interest in this field has only grown with time. I gravitate more towards Data Science and Data Analysis. Working in the technology sector of various MNCs like Sony and Colgate-Palmolive has helped me gain relevant experience in the industry. As businesses today are becoming more inextricably linked with information technology, I strive to utilize my expertise to bridge the gap between technology and business.       
 
@@ -21,6 +21,7 @@ My key interest lies solely in sharing my technical expertise with people. I tho
 
 ---
 I'm currently:
+- 👩‍💻a Lead Data Scientist Global at OpenMined
 - 👩‍💻a Data Science Global Ambassador at Z by HP 
 - 👩‍💻a Dev Expert at Weights & Biases
 - 🌱 Sharpening my Deep Learning skill set
