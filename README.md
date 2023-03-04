@@ -9,11 +9,6 @@ My key interest lies solely in sharing my technical expertise with people. I tho
 
 ---
 
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/discussion/light)
-
 <p align=center>
 <a href="https://www.kaggle.com/ruchi798"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
 <a href="https://datascience.hp.com/us/en/our-ambassadors/ruchi-bhatia.html"><img height="25" src="https://img.shields.io/badge/Z%20by%20HP-Ambassador%20Profile-lightgrey"></a>
