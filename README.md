@@ -7,8 +7,6 @@ Having started coding at an early age and also having completed my Bachelor’s,
 
 My key interest lies solely in sharing my technical expertise with people. I thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas. I also believe in Kata - the Japanese ideology of thinking before acting which enables me to be able to focus on not only continuous improvement, but also innovation.
 
----
-
 <p align=center>
 <a href="https://www.kaggle.com/ruchi798"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
 <a href="https://datascience.hp.com/us/en/our-ambassadors/ruchi-bhatia.html"><img height="25" src="https://img.shields.io/badge/Z%20by%20HP-Ambassador%20Profile-lightgrey"></a>
