@@ -14,7 +14,6 @@ My key interest lies solely in sharing my technical expertise with people. I tho
 
 ---
 I'm currently:
-- 👩‍💻a Lead Data Scientist Global at OpenMined
 - 👩‍💻a Data Science Global Ambassador at Z by HP 
 - 👩‍💻a Dev Expert at Weights & Biases
 - 🌱 Sharpening my Deep Learning skill set
