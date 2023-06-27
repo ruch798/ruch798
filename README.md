@@ -28,9 +28,9 @@ Recent work:
 
 ---
 
-<p align="center">
+<!--<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruch798&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-</p>
+</p> -->
 
 <p align=center>
 <img height="25" src="https://komarev.com/ghpvc/?username=ruch798&color=brightgreen" />
